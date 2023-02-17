@@ -1,0 +1,40 @@
+On Signup
+
+Check if authID (Email or Telephone) in use
+If not, assign it. Else, redo
+Check if username in use
+If not, assign it. Else, redo
+
+Prompt user to type some preferences (give examples)
+Queue up changes to add to database when save button pressed
+Replace preferences while puttinig up screen saying "Updating"
+
+When Trigger, check Position of all users to determine distances
+
+Demo features: vibe cloud
+
+
+User Menu Screen
+Not Logged In
+_____________
+|  graphic  |
+|   Ping    |
+|           |
+|           |
+|  Sign Up  |
+|  Log In   |
+|           |
+|  options  |
+|___________|
+
+First Time Interests
+_____________
+|  graphic  |
+|           |
+|           |
+|           |
+|    |
+|  TypeHere |
+|           |
+|   Submit  |
+|___________|
